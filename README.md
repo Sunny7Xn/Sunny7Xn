@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sunny7Xn
-- 👀 I’m interested in deta scince
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning programing language
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ---->Gmail----> 
